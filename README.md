@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://www.google.at/url?sa=i&url=https%3A%2F%2Fletto.at%2Fmediawiki%2Findex.php%3Ftitle%3DDatei%3ALogo.png&psig=AOvVaw01aZ47avEs40MHFDqvla7n&ust=1666779769831000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDQmdKU-_oCFQAAAAAdAAAAABAE))
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXZcRhNQIHSsBuNHzzlpHzxcdYia-vg3oAEQEMb1D&s)
 
 # Getting Started with Create React App
 
