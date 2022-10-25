@@ -1,5 +1,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXZcRhNQIHSsBuNHzzlpHzxcdYia-vg3oAEQEMb1D&s)
 
+![alt text](https://www.oefb.at/bewerbe/oefb2/person/images/1278650591628556536_5c0527f1cf0265c79f26-1,0-600x315-600x315.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
